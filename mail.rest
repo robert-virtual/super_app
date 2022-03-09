@@ -1,0 +1,8 @@
+
+
+PUT http://localhost:3000/resetpasswd
+Content-Type: application/json
+
+{
+    "email":"robertocastill63@gmail.com"
+}
